@@ -1,0 +1,26 @@
+{
+  "name": "cryptozombiehardhatproject",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.",
+  "main": "hardhat.config.cjs",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "cryptozombiehardhatproject": "file:",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "web3": "^4.14.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.15"
+  }
+}
