@@ -93,8 +93,8 @@ API_URL=https://<Infura_or_Alchemy_URL>
 PRIVATE_KEY=<Your_Private_Key>
 ```
 ### Cập nhật hardhat.config.cjs với biến môi trường
-Cấu hình như sau:
-
+- Cấu hình như sau:
+(thành phân thông tin riêng tư từ thư viện dotenv, phiên bản solidity tương ứng)
 ```javascript
 require("dotenv").config();
 module.exports = {
