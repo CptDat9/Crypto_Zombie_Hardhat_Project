@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=450&lines=Crypto+Zombie" alt="Typing SVG" /></a>
 </p>
 <div align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/HUST-course-blue?labelColor=EE4E4E&color=151515">
+<img alt="Static Badge" src="https://img.shields.io/badge/Astar-group-blue?labelColor=EE4E4E&color=151515">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/CptDat9/Crypto_Zombie_Hardhat_Project?labelColor=7AA2E3&color=97E7E1">
 </div>
 
