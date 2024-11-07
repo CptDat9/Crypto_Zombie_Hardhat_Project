@@ -21,3 +21,38 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+## Hướng dẫn tạo Hardhat Project - Crypto Zombie Hardhat Project
+
+## Mục lục
+
+- [Giới thiệu](#giới-thiệu)
+- [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
+- [Cài đặt dự án](#cài-đặt-dự-án)
+- [Các lệnh cơ bản](#các-lệnh-cơ-bản)
+- [Thông tin bổ sung](#thông-tin-bổ-sung)
+
+## Giới thiệu
+
+Dự án này là một ví dụ cơ bản về việc sử dụng Hardhat, bao gồm:
+
+- 
+- Test cho hợp dồng
+- Một mô-đun Ignition của Hardhat để triển khai hợp đồng.
+
+Hướng dẫn này sẽ giúp bạn khởi tạo và cấu hình một dự án Hardhat từ đầu, với các lệnh chi tiết để kiểm thử, triển khai và kiểm tra mã nguồn trên mạng blockchain mô phỏng.
+
+## Yêu cầu hệ thống
+
+- **Node.js** và **npm** đã được cài đặt.
+- **Hardhat** phiên bản mới nhất.
+- **Git** để quản lý mã nguồn.
+
+## Cài đặt dự án
+
+### Khởi tạo một thư mục dự án mới
+
+Mở terminal và tạo thư mục mới cho dự án Hardhat:
+
+```bash
+mkdir CryptoZombieHardhatProject
+cd CryptoZombieHardhatProject
