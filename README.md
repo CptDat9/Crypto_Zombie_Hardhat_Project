@@ -6,6 +6,7 @@
 </p>
 <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Astar-group-blue?labelColor=EE4E4E&color=151515">
+<img alt="Static Badge" src="https://img.shields.io/badge/Security-Research-blue?labelColor=e7ec89&color=3ddd2b&label=Security">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/CptDat9/Crypto_Zombie_Hardhat_Project?labelColor=7AA2E3&color=97E7E1">
 </div>
 
