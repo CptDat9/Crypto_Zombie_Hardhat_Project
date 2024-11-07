@@ -63,12 +63,12 @@ npm init -y
 npm install --save-dev hardhat
 npx hardhat
 ```
-Chọn mẫu project (ví dụ project bên trên tôi sử dụng mẫu JavaScript project).
-Khi được hỏi, chọn `Create a basic sample project`. Hardhat sẽ tạo ra các tệp mẫu, bao gồm:
+- Chọn mẫu project (ví dụ project bên trên tôi sử dụng mẫu JavaScript project).
+- Khi được hỏi, chọn `Create a basic sample project`. Hardhat sẽ tạo ra các tệp mẫu, bao gồm:
 
-Thư mục `contracts` chứa các hợp đồng thông minh.
-Thư mục `scripts` chứa script triển khai.
-Thư mục `test` chứa các bài kiểm thử hợp đồng.
+- Thư mục `contracts` chứa các hợp đồng thông minh.
+- Thư mục `scripts` chứa script triển khai.
+- Thư mục `test` chứa các bài kiểm thử hợp đồng.
 ### Cấu hình Hardhat
 Thêm cấu hình vào tệp hardhat.config.cjs nếu cần, ví dụ:
 
