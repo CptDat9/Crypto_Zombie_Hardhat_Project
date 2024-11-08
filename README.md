@@ -148,5 +148,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ![image](https://github.com/user-attachments/assets/f3dd97e2-6a96-43c2-869f-cd403cf3044f)
 ![image](https://github.com/user-attachments/assets/7b793885-8df5-4d6a-9d8d-32a4beff18ca)
 
-### Kết quả sau khi deploy lên BSC testnet
+### Kết quả sau khi deploy contracts lên BSC testnet
 ![image](https://github.com/user-attachments/assets/1dcaab66-3f1b-4b63-8cc0-289d86116b8a)
